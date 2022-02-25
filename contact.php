@@ -36,7 +36,7 @@ if(isset($_GET['del_id']) && !empty($_GET['del_id'])){
     <title>Contact</title>
 </head>
 <body>
-    
+    <h2>Contact <form action=""></form></h2>
     <!-- Create a html page(structure) -->
     <div class="container">
         <h3>CRUD-Contact Records</h3>
